@@ -2,7 +2,7 @@
 
 🔎 Visão geral
 
-Foi criado uma agenda de contatos em Java, focando no aprendizado do funcionamento do POO(Programação orientada a objetos) .
+Foi criado uma agenda de contatos em Javafx, focando no aprendizado do funcionamento do POO(Programação orientada a objetos) .
 
 ⚙️ Como instalar a aplicação na sua máquina
 
