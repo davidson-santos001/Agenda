@@ -1,4 +1,4 @@
-# Agenda em JavaFX
+# Agenda de contatos em JavaFX
 
 🔎 Visão geral
 
